@@ -1,0 +1,17 @@
+{
+    "perl" : "6.c",
+    "name" : "Nondescript",
+    "version" : "0.0.1",
+    "description" : "Nondescript.",
+    "authors" : [
+        "John Doe"
+    ],
+    "license" : "GPL-3.0",
+    "provides" : {
+    },
+    "depends" : [
+    ],
+    "resources" : [
+    ],
+    "source-url" : ""
+}

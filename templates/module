@@ -1,0 +1,7 @@
+#! /usr/bin/env false
+
+use v6.c;
+
+
+
+# vim: ft=perl6
