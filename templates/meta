@@ -1,10 +1,10 @@
 {
     "perl" : "6.c",
-    "name" : "Nondescript",
+    "name" : "Module::Name",
     "version" : "0.0.1",
-    "description" : "Nondescript.",
+    "description" : "Module description.",
     "authors" : [
-        "John Doe"
+        "Author Name"
     ],
     "license" : "GPL-3.0",
     "provides" : {
