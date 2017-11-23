@@ -1,0 +1,17 @@
+{
+    "perl" : "6.c",
+    "name" : "Module::Name",
+    "version" : "0.0.1",
+    "description" : "Module description.",
+    "authors" : [
+        "Author Name"
+    ],
+    "license" : "GPL-3.0",
+    "provides" : {
+    },
+    "depends" : [
+    ],
+    "resources" : [
+    ],
+    "source-url" : ""
+}
